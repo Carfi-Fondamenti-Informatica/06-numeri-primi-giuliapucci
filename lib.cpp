@@ -1,4 +1,4 @@
-#include "primaLibreria.h"
+#include "lib.h"
 int n_primo(int a, int b) {
     bool x=true;
     if (b!=1) {
